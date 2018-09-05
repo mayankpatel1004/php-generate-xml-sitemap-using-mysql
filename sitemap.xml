@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+
+  		<loc>wordpress</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>wordpress</title>
+</item>
+<url>
+
+  		<loc>joomla</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>joomla</title>
+</item>
+<url>
+
+  		<loc>My thoughts</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>My thoughts</title>
+</item>
+<url>
+
+  		<loc>Tutorials</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Tutorials</title>
+</item>
+<url>
+
+  		<loc>wxWidgets</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>wxWidgets</title>
+</item>
+<url>
+
+  		<loc>C plus plus</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>C plus plus</title>
+</item>
+<url>
+
+  		<loc>CSS</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>CSS</title>
+</item>
+<url>
+
+  		<loc>Javascript</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Javascript</title>
+</item>
+<url>
+
+  		<loc>Mysql</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Mysql</title>
+</item>
+<url>
+
+  		<loc>Php</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Php</title>
+</item>
+<url>
+
+  		<loc>Misc</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Misc</title>
+</item>
+<url>
+
+  		<loc>Linux</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Linux</title>
+</item>
+<url>
+
+  		<loc>Application development</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Application development</title>
+</item>
+<url>
+
+  		<loc>Web development</loc>
+
+  		<changefreq>hourly</changefreq>
+
+	</url>
+<title>Web development</title>
+</item>
+
+</urlset>
